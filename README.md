@@ -118,9 +118,5 @@ python inference_classifier.py
 - Optimize landmark normalization for multi-hand gestures
 
 ---
+<img width="1024" height="1536" alt="ChatGPT Image Oct 31, 2025, 07_29_59 PM" src="https://github.com/user-attachments/assets/ac67df23-2e25-4c16-ac75-f34aac176e7e" />
 
-## 👩‍💻 Author
-
-**Gurram Gowthami**  
-SRM University AP  
-M.Tech | Computer Science
